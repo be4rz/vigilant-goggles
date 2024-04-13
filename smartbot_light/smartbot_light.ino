@@ -12,5 +12,5 @@ void loop() {
   Serial.print("Raw Light Value: ");
   Serial.println(lightValue);
 
-  delay(1000); // Delay for readability in serial monitor
+  delay(500); // Delay for readability in serial monitor
 }
