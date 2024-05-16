@@ -1,0 +1,19 @@
+#define MQTT_HOST "mqtt.dev.isling.me"
+#define MQTT_PORT 1883
+#define MQTT_PASS ""
+#define MQTT_CLIENT_ID "bot_switch-01HTQ9844VMWWP70AD8HGJ48BY"
+#define MQTT_MAX_PACKET_SIZE 512
+
+#define DEVICE_ID "01HVAJ1N63VW5BAA6SDDWNB88Q"
+#define DEVICE_TYPE "bot_light-hummidity"
+#define DEVICE_VERSION "0.1.0"
+#define DEVICE_FIRMWARE_VERSION "0.1.0"
+
+#define AP_WIFI_SSID "smartbot-bs-01HTQ984"
+#define AP_WIFI_PASS "12345678"
+
+#define WIFI_SSID ""
+#define WIFI_PASS ""
+#define SPACE_ID "01HTQ9HBANAVTXG95AQWSWGXKK"
+
+#define SCHEDULE_UPDATE_TIME "0 0 */1 * * *"
